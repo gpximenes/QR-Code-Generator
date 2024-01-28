@@ -1,7 +1,3 @@
-Great! Since you have a `.requirements` file in your project, I'll include a section in the README that details how to install these dependencies. Here is the complete README file for your QR code generator project:
-
----
-
 # QR Code Generator
 
 ## Introduction
